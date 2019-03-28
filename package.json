@@ -1,0 +1,17 @@
+{
+  "name": "socket-draw",
+  "version": "1.0.0",
+  "description": "Socket.io drawing app",
+  "main": "index.js",
+  "repository": "github:Zachari/socket-draw",
+  "author": "Zachari LaCombe",
+  "license": "MIT",
+  "dependencies": {
+    "body-scroll-lock": "^2.6.1",
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
